@@ -10,6 +10,6 @@
 	hola
 	cambio echo con el workspace2
 	
-	conflicto workspace2
+	conflicto workspace2 mas conflicto workspace 1
 </body>
 </html>
