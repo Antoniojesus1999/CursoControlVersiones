@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	ho-añado caracteres con el workspace2-la
+	ho-añado caracteres con el workspace2, añado mas caracteres con workspace1-la
 	cambio echo con el workspace2
 	
 	conflicto workspace2 mas conflicto workspace 1
