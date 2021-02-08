@@ -9,5 +9,7 @@
 <body>
 	hola
 	cambio echo con el workspace2 cambio con worskapce1
+	
+	conflicto workspace1
 </body>
 </html>
